@@ -1,2 +1,4 @@
 /.venv/
 .idea
+/tracks_clean.csv
+/tracks_prepared.csv
