@@ -1,2 +1,0 @@
-recordingId,ground_truth_tracks,predicted_tracks,fragmented_gt_tracks,mixed_predicted_tracks,without_fragmentation,without_merging
-0,384,541,2,1,0.9947916666666666,0.9981515711645101
